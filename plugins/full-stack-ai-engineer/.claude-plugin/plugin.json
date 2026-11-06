@@ -1,0 +1,13 @@
+{
+  "name": "full-stack-ai-engineer",
+  "displayName": "Full-Stack AI Engineer",
+  "version": "3.1.0",
+  "description": "Principal-level full-stack AI engineering skill: LLM apps, RAG, agents, Next.js frontends, backends, security, evals, and deployment, with an execution loop and runnable helper scripts.",
+  "author": {
+    "name": "Muhammad Yousaf"
+  },
+  "homepage": "https://github.com/yousafaiofficial/full-stack-ai-engineer-skill",
+  "repository": "https://github.com/yousafaiofficial/full-stack-ai-engineer-skill",
+  "license": "MIT",
+  "keywords": ["ai-engineering", "rag", "agents", "nextjs", "fastapi", "evals", "deployment"]
+}

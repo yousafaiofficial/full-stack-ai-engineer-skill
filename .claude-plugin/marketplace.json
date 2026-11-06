@@ -1,0 +1,14 @@
+{
+  "name": "fsai-skills",
+  "description": "Full-stack AI engineering skills",
+  "owner": {
+    "name": "Muhammad Yousaf"
+  },
+  "plugins": [
+    {
+      "name": "full-stack-ai-engineer",
+      "source": "./plugins/full-stack-ai-engineer",
+      "description": "Principal-level full-stack AI engineering skill with an execution loop, references, templates, and eval/validation scripts"
+    }
+  ]
+}
